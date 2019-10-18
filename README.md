@@ -1,4 +1,4 @@
-# identifier-v0
+# identifier-as-v0
 Programa Exemplo para Ensino de Teste de Software - Versão Android
 
 O código desse produto é parte de um compilador para uma linguagem denominada Silly Pascal. Ele se encarrega de validar se os identificadores são válidos ou não nessa referida linguagem.
